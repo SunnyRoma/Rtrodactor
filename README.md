@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/sunnyroma/retrodactor.git
-cd retro-editor
+cd retrodactor
 ```
 
 2. Установите необходимые зависимости:
