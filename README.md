@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/retro-editor.git
+git clone https://github.com/sunnyroma/retrodactor.git
 cd retro-editor
 ```
 
@@ -37,12 +37,8 @@ pip install pillow
 pip install fpdf  # опционально, для поддержки PDF
 ```
 
-3. Создайте иконку приложения:
-```bash
-python icon.py
-```
 
-4. Запустите приложение:
+3. Запустите приложение:
 ```bash
 python main.py
 ```
